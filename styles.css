@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: #ffe4b5;
+}
+a {
+    color:chocolate;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
